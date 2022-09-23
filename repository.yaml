@@ -1,0 +1,4 @@
+repositories:
+
+  - name: testing
+    url: https://gitlab.com/testing.git
